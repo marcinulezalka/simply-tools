@@ -12,6 +12,7 @@
     ],
     "homepage": "https://github.com/marcinulezalka/simply-tools",
     "license": "proprietary",
+    "abandoned": "simplysmart/admiro",
     "authors": [
         {
             "name": "Marcin Ulezalka",

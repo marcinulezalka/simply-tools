@@ -4,6 +4,10 @@ Format oparty na [Keep a Changelog](https://keepachangelog.com/pl/1.1.0/).
 
 ## [Unreleased]
 
+### Deprecated
+
+- Pakiet porzucony: narzędzia przeniesione do `simplysmart/admiro` (`"abandoned": "simplysmart/admiro"` w `composer.json`).
+
 ### Fixed
 
 - Skrypt serwerowy wdrożenia zakłada organizację operatora (`mainboard:organizations:seed`, po słownikach, przed rolami); bez niej na nowej bazie `deploy:onboarding` nie nadawał ról kontom stref bez firm klientów („No query results for model Organization 1”).

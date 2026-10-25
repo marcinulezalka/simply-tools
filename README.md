@@ -1,5 +1,9 @@
 # simplysmart/tools
 
+> **Pakiet porzucony.** Narzędzia (wydania, paczki prywatne, wdrożenie, skille AI) są teraz częścią
+> [`simplysmart/admiro`](https://github.com/marcinulezalka/simply-admiro) (`docs/narzedzia.md`, `vendor/bin/simplysmart`).
+> Zamień `simplysmart/tools` w `require-dev` na `simplysmart/admiro` i w `boost.json` na `simplysmart/admiro`.
+
 Przybornik deweloperski dla projektów i pakietów simplysmart. Bez zależności poza PHP ^8.4,
 bez frameworka.
 
