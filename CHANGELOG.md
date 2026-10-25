@@ -4,6 +4,8 @@ Format oparty na [Keep a Changelog](https://keepachangelog.com/pl/1.1.0/).
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-10-25
+
 ### Deprecated
 
 - Pakiet porzucony: narzędzia przeniesione do `simplysmart/admiro` (`"abandoned": "simplysmart/admiro"` w `composer.json`).
